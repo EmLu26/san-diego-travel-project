@@ -293,6 +293,11 @@ footer a {
     aspect-ratio: 16/9;
   }
 
+  .insta-embed {
+    display: flex;
+    justify-content: center;
+  }
+
   .middle-embed {
     padding: 0;
   }
